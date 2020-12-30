@@ -1,6 +1,6 @@
 {
   "name": "network_vis",
-  "version": "7.5.2",
+  "version": "7.10.0",
   "kibana": {
     "version": "kibana"
   },
